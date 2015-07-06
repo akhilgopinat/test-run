@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Chat</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/global.css">
+  <script src="js/vendor/bootstrap.min.js"></script>
+  <script src="js/vendor/jquery-1.10.2.min.js"></script>
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body class="chat">
+    <header>
+      <div id="logo" class="navbar-header">
+        <img src="img/bankofme_large.png" class="logo" />
+      </div>
+      <div id="navbar" class="top-nav navbar-collapse collapse">
+        <nav class="nav navbar-nav">
+            <a href="#" class="home fa fa-home"></a>
+        </nav>
+        <nav class="nav navbar-nav navbar-right">
+            <a href="#" class="mob fa fa-mobile"></a>
+            <a href="#" class="profile fa fa-user"></a>
+            <a href="#" class="search fa fa-search"></a>
+            <a href="#" class="edit fa fa-pencil"></a>
+        </nav>
+      </div>
+      <div class="main-nav-wrapper">
+        <div class="left-empty"></div>
+      <nav class="main-nav navbar-nav">
+            <a href="#" class="home-ico fa fa-home">Home</a>
+            <a href="#" class="home-ico fa fa-link">Connect</a>
+            <a href="#" class="home-ico fa fa-picture-o">Discover</a>
+            <a href="#" class="home-ico fa fa-user">Me</a>
+        </nav>
+      </div>
+    </header>
+    <div role="main" class="jumbotron chat">
+      <div class="chat-window">
+        <div class="title-box">
+          <div class="chat-ico">
+            <i class="fa fa-comment"></i>
+          </div>
+          <div class="video-call-ico fa fa-video-camera">
+            Video Call
+          </div>
+        </div>
+        <div class="chat-box">
+          <div class="commnets left-ico">
+            <div class="user-thumb">
+              <img src="img/agent_chat.png" />
+            </div>
+            <div class="comment-right">
+              <div class="user-box">
+              <h3 class="user-title">Joe</h3>
+              <span class="time-line fa fa-clock-o">15 mins ago</span>
+              </div>
+              <span class="user-commnets">Hi , Im Joe and i’ll be helping you open your nw account today.To begin with, we’ll need your registered student number from UCAS please- do you have this to hand?</span>
+            </div>
+          </div>
+          <div class="commnets right-ico">
+            <div class="user-thumb">
+              <img src="img/customer_chat.png" />
+            </div>
+            <div class="comment-right">
+              <div class="user-box">
+                <span class="time-line fa fa-clock-o">13 mins ago</span>
+                <h3 class="user-title">You</h3>
+              </div>
+                            <span class="user-commnets">Hi , Im Joe and i’ll be helping you open your nw account today.To begin with, we’ll need your registered student number from UCAS please- do you have this to hand?</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-comment hidden-phone">
+          <div class="comments-wrap">
+            <form>
+            <div class="file-upload img-ico">
+              <i class="fa fa-folder-open icons"></i>
+            </div>
+            <div class="image-upload img-ico">
+              <i class="fa fa-camera icons"></i>
+            </div>
+            <div class="text-field">
+              <input type="text" name="message" value="Type your message here ....">
+            </div>
+            <button type="button">Click Me!</button>
+            </form>
+          </div>
+        </div>
+        <div class="post-comment visible-phone">
+          <div class="comments-wrap">
+            <form>
+            <div class="file-upload img-ico">
+              <i class="fa fa-folder-open icons"></i>
+            </div>
+            <div class="image-upload img-ico">
+              <i class="fa fa-camera icons"></i>
+            </div>
+            <div class="text-field">
+              <input type="text" name="message" value="Type your message here ....">
+            </div>
+            <button type="button">Click Me!</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    <div>
+  <script src="js/test-project.min.js"></script>
+</body>
+</html>

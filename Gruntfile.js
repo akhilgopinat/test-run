@@ -32,7 +32,6 @@ module.exports = function(grunt) {
       img: 'img'
     },
 
-
     /**
      * Minify .svg
      * @github.com/sindresorhus/grunt-svgmin
@@ -94,9 +93,18 @@ module.exports = function(grunt) {
      */
     jshint: {
       gruntfile: 'Gruntfile.js',
-      files: ['<%= dir.js %>/src/**/*.js'],
+      files: ['js/src/**/*.js'],
       options: {
-        jshintrc: '.jshintrc'
+        '-W116': false,
+        '-W069': false,
+        '-W033': false,
+        curly: true,
+        eqeqeq: true,
+        eqnull: true,
+        browser: true,
+        globals: {
+          jQuery: true
+        },
       }
     },
 
@@ -132,7 +140,7 @@ module.exports = function(grunt) {
           debugInfo: true
         },
         files: {
-          '<%= dir.css %>/<%= pkg.name %>.css': '<%= dir.sass %>/global.scss'
+          '<%= dir.css %>/global.css': '<%= dir.sass %>/global.scss'
         }
       },
 
@@ -142,7 +150,7 @@ module.exports = function(grunt) {
           style: 'compressed'
         },
         files: {
-          '<%= dir.css %>/<%= pkg.name %>.css': '<%= dir.sass %>/global.scss'
+          '<%= dir.css %>/global.css': '<%= dir.sass %>/global.scss'
         }
       }
     },
