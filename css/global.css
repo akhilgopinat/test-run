@@ -503,15 +503,14 @@ html {
     position: relative;
     height: 576px;
     background: url("../img/bank3.jpg") no-repeat;
-    background-size: 100% auto;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\0000391}}
   html body .jumbotron .container .banner-wrap {
     max-width: 900px;
     margin: 10px auto;
     width: 70%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\0000396}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\0000395}}
   html body .jumbotron .container .banner-wrap .banner-dic {
     background: -moz-linear-gradient(top, rgba(30, 87, 153, 0.31) 0%, rgba(30, 87, 153, 0.26) 22%, rgba(30, 87, 153, 0.1) 99%, rgba(30, 87, 153, 0.1) 100%);
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(30, 87, 153, 0.31)), color-stop(22%, rgba(30, 87, 153, 0.26)), color-stop(99%, rgba(30, 87, 153, 0.1)), color-stop(100%, rgba(30, 87, 153, 0.1)));
@@ -527,12 +526,12 @@ html {
     font-size: 20px;
     text-align: center;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003110}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003109}}
   html body .jumbotron .container .banner-wrap .banner-dic h1 {
     font-size: 20px;
     font-weight: normal;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003114}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003113}}
   html body .jumbotron .container .banner-wrap .banner-dic .deck {
     font-size: 12px;
     display: block;
@@ -540,12 +539,12 @@ html {
     padding: 10px 30px;
     width: 80%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003122}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003121}}
   html body .jumbotron .container .banner-wrap .quick-links {
     max-width: 430px;
     margin: 0 auto;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003125}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003124}}
   html body .jumbotron .container .banner-wrap .quick-links a {
     display: inline-block;
     padding: 20px 50px;
@@ -557,11 +556,11 @@ html {
     border: 2px solid #fff;
     margin: 20px 12px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003135}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003134}}
   html body .jumbotron .container .banner-wrap .quick-links a.video-call {
     background: #e16399;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003138}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003137}}
   html body .jumbotron .container .banner-wrap .quick-links a.branch {
     float: none;
     margin: 10px auto;
@@ -569,22 +568,22 @@ html {
     clear: both;
     max-width: 200px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003148}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003147}}
   html body .jumbotron .container img {
     width: 100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003154}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003153}}
   html body.chat .jumbotron {
     background: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003156}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003155}}
   html body.chat .jumbotron .chat-window {
     max-width: 1170px;
     margin: 10px auto;
     overflow: hidden;
     height: auto;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003161}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003160}}
   html body.chat .jumbotron .chat-window .title-box {
     background: #52b3a6;
     padding: 20px 10px;
@@ -592,12 +591,12 @@ html {
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003167}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003166}}
   html body.chat .jumbotron .chat-window .title-box .chat-ico {
     float: left;
     font-size: 24px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003171}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003170}}
   html body.chat .jumbotron .chat-window .title-box .video-call-ico {
     font-size: 18px;
     color: #fff;
@@ -607,52 +606,52 @@ html {
     padding: 10px 5px;
     text-align: center;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003181}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003180}}
   html body.chat .jumbotron .chat-window .chat-box {
     background: #f0f8ff;
     overflow: hidden;
     padding: 10px 20px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003185}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003184}}
   html body.chat .jumbotron .chat-window .chat-box .commnets {
     overflow: hidden;
     height: auto;
     border-bottom: 1px dotted #b3a9a9;
     padding-bottom: 20px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003190}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003189}}
   html body.chat .jumbotron .chat-window .chat-box .commnets .user-thumb {
     float: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003192}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003191}}
   html body.chat .jumbotron .chat-window .chat-box .commnets .user-thumb img {
     width: 56px;
     height: 56px;
     border-radius: 56px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003198}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003197}}
   html body.chat .jumbotron .chat-window .chat-box .commnets .comment-right {
     float: left;
     width: 95%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003201}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003200}}
   html body.chat .jumbotron .chat-window .chat-box .commnets .comment-right .user-box {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003203}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003202}}
   html body.chat .jumbotron .chat-window .chat-box .commnets .comment-right .user-box .time-line {
     float: right;
     font-size: 11px;
     color: #b3a9a9;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003208}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003207}}
   html body.chat .jumbotron .chat-window .chat-box .commnets .comment-right .user-box .user-title {
     float: left;
     margin: 5px 0 5px 6px;
     font-size: 16px;
     color: #000;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003215}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003214}}
   html body.chat .jumbotron .chat-window .chat-box .commnets .comment-right .user-commnets {
     clear: both;
     display: block;
@@ -660,39 +659,39 @@ html {
     max-width: 70%;
     padding: 0 10px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003223}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003222}}
   html body.chat .jumbotron .chat-window .chat-box .commnets.right-ico {
     padding-top: 20px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003225}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003224}}
   html body.chat .jumbotron .chat-window .chat-box .commnets.right-ico .user-thumb {
     float: right;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003230}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003229}}
   html body.chat .jumbotron .chat-window .chat-box .commnets.right-ico .comment-right .user-box .time-line {
     float: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003233}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003232}}
   html body.chat .jumbotron .chat-window .chat-box .commnets.right-ico .comment-right .user-box .user-title {
     float: right;
     margin-right: 10px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003242}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003241}}
   html body.chat .jumbotron .chat-window .post-comment {
     background: #f6f6f6;
     padding: 10px 20px;
     width: 100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003243}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003242}}
   html body.chat .jumbotron .chat-window .post-comment.hidden-phone {
     display: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003249}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003248}}
   html body.chat .jumbotron .chat-window .post-comment .comments-wrap {
     display: table;
     margin: 0 auto;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003252}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003251}}
   html body.chat .jumbotron .chat-window .post-comment .comments-wrap .img-ico {
     font-size: 24px;
     color: #da4787;
@@ -704,19 +703,19 @@ html {
     margin-right: 10px;
     margin-top: 10px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003262}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003261}}
   html body.chat .jumbotron .chat-window .post-comment .comments-wrap .img-ico i {
     margin-top: 18px;
     display: block;
     text-align: center;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003268}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003267}}
   html body.chat .jumbotron .chat-window .post-comment .comments-wrap .text-field {
     float: left;
     width: 600px;
     height: 80px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003272}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003271}}
   html body.chat .jumbotron .chat-window .post-comment .comments-wrap .text-field input {
     width: 100%;
     height: 80px;
@@ -724,7 +723,7 @@ html {
     font-size: 12px;
     color: #a9a9a9;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003280}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003279}}
   html body.chat .jumbotron .chat-window .post-comment .comments-wrap button {
     background: #e16399;
     border-radius: 4px;
@@ -738,18 +737,18 @@ html {
 }
 
 @media only screen and (min-width: 320px) and (max-width: 767px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003299}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003298}}
   body {
     color: #fcfcfc;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003302}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003301}}
   body #logo img {
     width: 55px;
     height: 55px;
     border-radius: 6px;
     margin-top: 10px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003311}}
   body #navbar nav.nav a {
     font-size: 30px;
     color: #777;
@@ -757,20 +756,20 @@ html {
     margin: 20px 30px;
     float: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003317}}
   body #navbar nav.nav a.fa-mobile {
     font-size: 35px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003320}}
   body #navbar nav.nav a:hover {
     text-decoration: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003323}}
   body #navbar nav.nav a.home {
     font-size: 45px;
     margin: 20px 0 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003327}}
   body #navbar nav.nav a.home {
     background: #d9d9d9;
     margin: 0;
@@ -779,25 +778,25 @@ html {
     padding-top: 12px;
     padding-left: 8px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003339}}
   body .main-nav-wrapper {
     width: 100%;
     background: #469ceb;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003342}}
   body .main-nav-wrapper .left-empty {
     float: left;
     width: 55px;
     height: 47px;
     border-right: 1px solid #fff;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003348}}
   body .main-nav-wrapper .main-nav {
     display: table;
     margin: 0 5px;
     float: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003352}}
   body .main-nav-wrapper .main-nav a {
     display: table-cell;
     float: left;
@@ -806,37 +805,36 @@ html {
     text-align: center;
     border-right: 1px solid #fff;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003359}}
   body .main-nav-wrapper .main-nav a:before {
     display: block;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003362}}
   body .main-nav-wrapper .main-nav a:hover {
     text-decoration: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003369}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003368}}
   body .jumbotron {
     padding-top: 0;
     padding-bottom: 0;
     margin-bottom: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003373}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003372}}
   body .jumbotron .container {
     width: 100%;
     margin: 0;
     padding: 0;
     position: relative;
-    height: 576px;
+    height: auto;
     background: url("../img/bank3.jpg") no-repeat;
-    background-size: 100% auto;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003381}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003379}}
   body .jumbotron .container .banner-wrap {
-    max-width: 900px;
-    margin: 10px auto;
-    width: 70%;
+    max-width: 100%;
+    margin: 5px auto;
+    width: 100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003385}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003383}}
   body .jumbotron .container .banner-wrap .banner-dic {
     background: -moz-linear-gradient(top, rgba(30, 87, 153, 0.31) 0%, rgba(30, 87, 153, 0.26) 22%, rgba(30, 87, 153, 0.1) 99%, rgba(30, 87, 153, 0.1) 100%);
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(30, 87, 153, 0.31)), color-stop(22%, rgba(30, 87, 153, 0.26)), color-stop(99%, rgba(30, 87, 153, 0.1)), color-stop(100%, rgba(30, 87, 153, 0.1)));
@@ -852,64 +850,64 @@ html {
     font-size: 20px;
     text-align: center;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003399}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003397}}
   body .jumbotron .container .banner-wrap .banner-dic h1 {
     font-size: 20px;
     font-weight: normal;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003403}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003401}}
   body .jumbotron .container .banner-wrap .banner-dic .deck {
     font-size: 12px;
     display: block;
     margin: 0 auto;
-    padding: 10px 30px;
-    width: 80%;
+    padding: 10px 10px;
+    width: 98%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003411}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003409}}
   body .jumbotron .container .banner-wrap .quick-links {
     max-width: 430px;
     margin: 0 auto;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003414}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003412}}
   body .jumbotron .container .banner-wrap .quick-links a {
-    display: inline-block;
-    padding: 20px 50px;
+    display: block;
+    padding: 20px 40px;
     text-align: center;
     text-transform: uppercase;
     color: #fff;
-    float: left;
+    float: none;
     border-radius: 6px;
     border: 2px solid #fff;
     margin: 20px 12px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003424}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003422}}
   body .jumbotron .container .banner-wrap .quick-links a.video-call {
     background: #e16399;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003427}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003425}}
   body .jumbotron .container .banner-wrap .quick-links a.branch {
     float: none;
-    margin: 10px auto;
+    margin: 0 auto;
     display: block;
     clear: both;
-    max-width: 200px;
+    max-width: 95%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003437}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003435}}
   body .jumbotron .container img {
     width: 100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003443}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003441}}
   body.chat .jumbotron {
     background: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003445}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003443}}
   body.chat .jumbotron .chat-window {
     max-width: 1170px;
     margin: 10px auto;
     overflow: hidden;
     height: auto;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003450}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003448}}
   body.chat .jumbotron .chat-window .title-box {
     background: #52b3a6;
     padding: 20px 10px;
@@ -917,12 +915,12 @@ html {
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003456}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003454}}
   body.chat .jumbotron .chat-window .title-box .chat-ico {
     float: left;
     font-size: 24px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003460}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003458}}
   body.chat .jumbotron .chat-window .title-box .video-call-ico {
     font-size: 18px;
     color: #fff;
@@ -932,52 +930,52 @@ html {
     padding: 10px 5px;
     text-align: center;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003470}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003468}}
   body.chat .jumbotron .chat-window .chat-box {
     background: #f0f8ff;
     overflow: hidden;
     padding: 10px 20px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003474}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003472}}
   body.chat .jumbotron .chat-window .chat-box .commnets {
     overflow: hidden;
     height: auto;
     border-bottom: 1px dotted #b3a9a9;
     padding-bottom: 20px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003479}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003477}}
   body.chat .jumbotron .chat-window .chat-box .commnets .user-thumb {
     float: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003481}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003479}}
   body.chat .jumbotron .chat-window .chat-box .commnets .user-thumb img {
     width: 56px;
     height: 56px;
     border-radius: 56px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003487}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003485}}
   body.chat .jumbotron .chat-window .chat-box .commnets .comment-right {
     float: left;
     width: 95%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003490}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003488}}
   body.chat .jumbotron .chat-window .chat-box .commnets .comment-right .user-box {
     clear: both;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003492}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003490}}
   body.chat .jumbotron .chat-window .chat-box .commnets .comment-right .user-box .time-line {
     float: right;
     font-size: 11px;
     color: #b3a9a9;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003497}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003495}}
   body.chat .jumbotron .chat-window .chat-box .commnets .comment-right .user-box .user-title {
     float: left;
     margin: 5px 0 5px 6px;
     font-size: 16px;
     color: #000;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003504}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003502}}
   body.chat .jumbotron .chat-window .chat-box .commnets .comment-right .user-commnets {
     clear: both;
     display: block;
@@ -985,83 +983,93 @@ html {
     max-width: 70%;
     padding: 0 10px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003512}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003510}}
   body.chat .jumbotron .chat-window .chat-box .commnets.right-ico {
     padding-top: 20px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003514}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003512}}
   body.chat .jumbotron .chat-window .chat-box .commnets.right-ico .user-thumb {
     float: right;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003519}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003517}}
   body.chat .jumbotron .chat-window .chat-box .commnets.right-ico .comment-right .user-box .time-line {
     float: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003522}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003520}}
   body.chat .jumbotron .chat-window .chat-box .commnets.right-ico .comment-right .user-box .user-title {
     float: right;
     margin-right: 10px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003531}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003529}}
   body.chat .jumbotron .chat-window .post-comment {
     background: #f6f6f6;
     padding: 10px 20px;
     width: 100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003532}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003530}}
   body.chat .jumbotron .chat-window .post-comment.visible-phone {
     display: block;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003535}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003533}}
   body.chat .jumbotron .chat-window .post-comment.hidden-phone {
     display: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003541}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003539}}
   body.chat .jumbotron .chat-window .post-comment .comments-wrap {
     display: table;
     margin: 0 auto;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003544}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003542}}
+  body.chat .jumbotron .chat-window .post-comment .comments-wrap .icons-wrap {
+    float: right;
+    margin-right: 70px;
+    margin-bottom: 10px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003547}}
   body.chat .jumbotron .chat-window .post-comment .comments-wrap .img-ico {
-    font-size: 24px;
+    font-size: 18px;
     color: #da4787;
-    width: 60px;
-    height: 60px;
-    border-radius: 60px;
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
     border: 1px solid #da4787;
     float: left;
     margin-right: 10px;
     margin-top: 10px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003554}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003557}}
   body.chat .jumbotron .chat-window .post-comment .comments-wrap .img-ico i {
-    margin-top: 18px;
+    margin-top: 12px;
     display: block;
     text-align: center;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003560}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003563}}
   body.chat .jumbotron .chat-window .post-comment .comments-wrap .text-field {
-    float: left;
-    width: 240px;
+    float: none;
+    width: 300px;
     height: 80px;
+    margin: 0 auto;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003564}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003568}}
   body.chat .jumbotron .chat-window .post-comment .comments-wrap .text-field input {
     width: 100%;
-    height: 80px;
+    height: 45px;
     border: 1px solid #bfbfbf;
     font-size: 12px;
     color: #a9a9a9;
+    max-width: 220px;
+    float: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003572}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/agopinat\/test-run\/css\/sass\/base\/_main\.scss}line{font-family:\00003578}}
   body.chat .jumbotron .chat-window .post-comment .comments-wrap button {
     background: #e16399;
-    border-radius: 4px;
     padding: 20px 0;
     text-align: center;
     border: none;
-    width: 180px;
-    margin: 10px;
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    border-radius: 40px;
     float: left;
   }
 }
